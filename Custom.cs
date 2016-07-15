@@ -39,6 +39,12 @@ namespace _2
             Console.WriteLine("Result = {0}",rez);
             Console.ReadLine();
 
+
+
+
+            Console.WriteLine("Some new text");
+
+
         }
     }
 }
