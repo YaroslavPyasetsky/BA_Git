@@ -16,7 +16,7 @@ namespace _2
             Console.WriteLine("Result = {0}",rez);
             Console.ReadLine();
 
-            
+            //this is my part of code
 
         }
     }
