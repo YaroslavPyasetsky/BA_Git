@@ -11,6 +11,7 @@ namespace _2
         public string id {get;set;}
         
 
-        public string Name2 { get; set; }
+        
+        public string Name3 { get; set; }
     }
 }
