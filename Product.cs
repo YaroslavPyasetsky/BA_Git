@@ -9,6 +9,8 @@ namespace _2
     class Program
     {
         public string id {get;set;}
-        public string Name { get; set; }
+        
+
+        public string Name2 { get; set; }
     }
 }
