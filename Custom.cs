@@ -10,40 +10,13 @@ namespace _2
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine("введите размерность");
-            int n = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine();
-
-            if (n == 1)
-            {
-                Console.WriteLine("0");
-                Console.ReadLine();
-                return;
-            }
-
-            int rez  = 0;
-            int rez1 = 0;
-            Console.WriteLine(rez1);
-            int rez2 = 1;
-            Console.WriteLine(rez2);
-
-
-            for (int i =2; i < n; i++)
-            {
-                rez = rez1 + rez2;
-                rez1 = rez2;
-                rez2 = rez;
-                Console.WriteLine(rez);
-            }
+            rez = 0;
+            Console.WriteLine("введите ...");
+            
             Console.WriteLine("Result = {0}",rez);
             Console.ReadLine();
 
-
-
-
             
-
 
         }
     }
