@@ -42,7 +42,7 @@ namespace _2
 
 
 
-            Console.WriteLine("Some new text");
+            
 
 
         }
