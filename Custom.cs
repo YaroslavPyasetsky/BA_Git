@@ -17,6 +17,11 @@ namespace _2
             Console.ReadLine();
 
 
+            //I want to delete
+
+            //this is my part of code
+
+
         }
     }
 }
