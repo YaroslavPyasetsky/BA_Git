@@ -19,5 +19,9 @@ namespace _2
             
 
         }
+        public static void PrintSomeCust()
+        {
+            Console.WriteLine("any");
+        }
     }
 }
